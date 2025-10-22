@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple To-Do</string>
+    <string name="empty_state_no_tasks_message">No tasks yet. Add one!</string>
+
+    <string name="content_desc_add_task">Add Task</string>
+    <string name="content_desc_edit_task">Edit Task</string>
+    <string name="content_desc_delete_task">Delete Task</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_save_task">Save Task</string>
+
+    <string name="title_confirm_deletion">Confirm Deletion</string>
+
+    <string name="dialog_delete_task_confirmation_message">Are you sure you want to delete this task?</string>
+
+
+    <string name="task_details_label_description">Description:</string>
+    <string name="label_no_description">No description.</string>
+    <string name="label_title">Title*</string>
+    <string name="label_description">Description</string>
+
+</resources>
